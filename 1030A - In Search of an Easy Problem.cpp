@@ -2,7 +2,7 @@
 // Codeforces userName : __Shahadat__
 // CodeChef userName : shahadat_43
 //---------------------------------------------
-
+ 
 #include<bits/stdc++.h>
 using namespace std;
 
